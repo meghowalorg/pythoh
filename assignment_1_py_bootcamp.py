@@ -203,6 +203,8 @@ while attemps < maximumatemps:
         else:
             print(f"You have exceeded the maximum of {maximumatemps} login attempts. Account locked.")
 
+#q5c
+
 PIN_NUMBER = "1234"
 balance = 1000
 attemps = 0
@@ -243,6 +245,10 @@ while attemps < maximumatemps:
         else:
             print(f"You have exceeded the maximum of {maximumatemps} login attempts. Account locked.")
            # sis_active = False
+
+
+
+#aiiiiiii
 
 correct_username = "meghowal"
 correct_password = 1234
